@@ -9,8 +9,8 @@ int main() {
     printf("Number: %d\n", number);
     printf("Character: %c\n", star);
     printf("Float: %f\n", pi);
-    // printf("Lowercase a: %d\n", a);
-    // printf("Uppercase A: %d\n", A);
+    printf("Lowercase a: %d\n", a);
+    printf("Uppercase A: %d\n", A);
 
     int len = 15;
     int bread=7;
@@ -140,6 +140,7 @@ int main(){
     }
     return 0;
 }
+
 
 
 
